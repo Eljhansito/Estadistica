@@ -1,4 +1,4 @@
-# Estadistica
+# Estadística
 Practica Estadística
 ## 📋 Descripción
 
